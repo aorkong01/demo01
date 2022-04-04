@@ -6,5 +6,7 @@ public class HelloWorld{
 		System.out.println("hehe");
 		System.out.println("在hot-fix上添加内容");
 		System.out.println("在master分支上添加内容");
+		System.out.println("在hot-fix上添加内容");
+		System.out.println("在hot-fix分支上又添加的内容");
 	}
 }
